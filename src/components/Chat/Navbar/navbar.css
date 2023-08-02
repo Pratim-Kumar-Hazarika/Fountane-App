@@ -1,0 +1,13 @@
+.navcontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: var(--primary-color);
+  color: white;
+}
+.navImageContainer {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 10px;
+}
